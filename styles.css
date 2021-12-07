@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.sidebar {
+  height: 100vh;
+  width: min-content;
+}
+
+.sidebar-icon {
+  cursor: pointer;
+  text-align: center;
+}
