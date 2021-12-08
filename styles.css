@@ -13,3 +13,25 @@
   cursor: pointer;
   text-align: center;
 }
+
+.input-group-append {
+  cursor: pointer;
+}
+
+.rounded-3 {
+  border-radius: 1.5rem !important;
+}
+
+.weather-card {
+  background-image: url(/images/dawn.jpg);
+  background-size: cover;
+}
+
+.air-quality-card {
+  background-image: url(/images/cloudy_sky.jpg);
+  background-size: cover;
+}
+.tomorrow-card {
+  background-image: url(/images/rain.jpg);
+  background-size: cover;
+}
