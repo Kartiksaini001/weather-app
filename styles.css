@@ -23,15 +23,15 @@
 }
 
 .weather-card {
-  background-image: url("./images/dawn.jpg");
+  background-image: url(images/dawn.jpg);
   background-size: cover;
 }
 
 .air-quality-card {
-  background-image: url("./images/cloudy_sky.jpg");
+  background-image: url(images/cloudy_sky.jpg);
   background-size: cover;
 }
 .tomorrow-card {
-  background-image: url("./images/rain.jpg");
+  background-image: url(images/rain.jpg);
   background-size: cover;
 }
